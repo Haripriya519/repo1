@@ -1,10 +1,1 @@
- Volume in drive C is Windows
- Volume Serial Number is 6E04-21A3
-
- Directory of C:\Users\1205h\Desktop\Myproject
-
-26-05-2021  14:11    <DIR>          .
-26-05-2021  14:11    <DIR>          ..
-26-05-2021  14:11                 0 abc.txt
-               1 File(s)              0 bytes
-               2 Dir(s)  49,895,387,136 bytes free
+abdjewhfreg.frkf
